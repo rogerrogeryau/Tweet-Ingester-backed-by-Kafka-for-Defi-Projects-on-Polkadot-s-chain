@@ -171,6 +171,8 @@ logs message and kafka stream app logs will be printed on terminal of that conta
 
 new three derived kafka topics are shown on Landoop UI, which consume their upstream topic(s)
 
+![landoop_end.png](./img/landoop_end.png)
+
 That's the end of this code demo. Thank you :)
 
 
